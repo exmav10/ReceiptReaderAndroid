@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027538596329",
+    "firebase_url": "https://mlkittextrecognition-b841e.firebaseio.com",
+    "project_id": "mlkittextrecognition-b841e",
+    "storage_bucket": "mlkittextrecognition-b841e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027538596329:android:45085c66880db70e",
+        "android_client_info": {
+          "package_name": "com.example.googlemlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027538596329-anichgogibtic4v3ene8osn12eteqt1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Pulz5BtYQcJOrOiWucRZZlyxgMkxzf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027538596329-anichgogibtic4v3ene8osn12eteqt1k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027538596329-f9tst1oge358ufmu4trqo5puqjhpdkqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ingbanktr.INGMobile.GoogleMLKit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
